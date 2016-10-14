@@ -9,4 +9,4 @@ The best way to add CSS snippets is to create a folder and upload CSS and HTML f
 
 ### Table of Contents 
 
-  - [Changing Bootstrap's menu breakpoint](#)
+  - [Change Bootstrap's menu breakpoint](https://github.com/hillarysousa/CSS-snippets/tree/master/Change-Bootstrap-menu-breakpoint)
