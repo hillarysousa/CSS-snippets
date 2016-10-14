@@ -1,8 +1,9 @@
+/* adds padding so the navbar doesn't overlay the content */
 body {
 	padding-top:70px;
 }
 
-
+/* changes the menu breakpoint. feel free to change the max-width attribute */
 @media (max-width: 1200px) {
     .navbar-header {
         float: none;
